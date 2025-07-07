@@ -1,0 +1,29 @@
+index.html
+<!DOCTYPE html>
+<html>
+ <head> 
+    <meta charset="UTF-8">
+    <meta name="author" content="Khalid Aras">
+    <meta name="description" content="This is a sample page created for Lab 1.">
+    <title>Lab 1 - My first web page</title>
+</head>
+<body>
+  <h1>Khalid Aras - My first web page</h1>
+
+  <p> Hello! My name is Khalid Aras. I am learning how to make websites using HTML. I actually have done this before but it has been a minute so I can't wait to do it again.</p>
+
+<p> I am looking forward to gain some new skills out of this course.</p>
+
+<ul>
+<li> Playing video games</li>
+<li> Listen to music</li>
+<li> Workout at the gym</li>
+<li> Spend some time with my family and friends</li>
+<li> Watch some TV</li>
+</ul>
+
+<p>One of my visited sites
+<a href="https://www.youtube.com/" target="_blank">Youtube</a>
+</p>
+</body>
+</html>
