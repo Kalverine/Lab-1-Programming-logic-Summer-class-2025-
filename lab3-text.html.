@@ -5,7 +5,56 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Styling Text and Fonts</title>
   <style>
-    /* Your CSS goes here */
+    /* Font Properties */
+body {
+font-family: sans-serif;
+}
+
+h1 {
+font-size: 3rem;
+font-weight: bold;
+text-align: center;
+text-shadow: 2px 2px red;
+}
+
+h2 {
+font-size: 2rem;
+font-weight: 300;
+text-transform: uppercase;
+}
+
+/* Text Alignment */
+footer {
+text-align: center;
+}
+
+p {
+text-align: justify;
+line-height: 1.6;
+}
+
+/* Text Transformation */
+section:nth-of-type(3) p {
+text-transform: capitalize;
+}
+
+/* Text Shadow */
+section:nth-of-type(4) p {
+text-shadow: 1px 1px 2px gray;
+}
+
+/* Lists */
+ul {
+list-style-type: square;
+}
+
+ol {
+list-style-type: upper-roman;
+}
+
+li {
+margin: 1rem 0;
+}
   </style>
 </head>
 <body>
