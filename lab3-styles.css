@@ -1,1 +1,46 @@
+/* Global Styles */
+body {
+  background-color: #f4f4f4; /* Light background */
+font-family: Arial, sans-serif;
+}
 
+/* Header Styling */
+h1 {
+  color: #2c3e50; /* Custom header color */
+text-align: center;
+}
+
+/* Paragraph styling */
+p {
+  color: #333333; /* Text color */
+padding: 10px;
+}
+
+/* List Styling */
+ul {
+  list-style-type: square; /* Custome bullet type */
+color: #0066cc; /* Bullet color is the same as text color */
+}
+
+li {
+  color: #444444: /* Different color for list items */
+margin: 1rem 0; /* Add margin between list items*/
+}
+
+/* Link Styling */
+a {
+  color: blue;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none; /* Removes underline on hover */
+}
+
+/* Box Styling */
+.styled-box {
+  border: 2px solid #000;
+  background-color: $d3d3d3; /* light gray background */
+padding: 15px;
+  text-align: center;
+}
